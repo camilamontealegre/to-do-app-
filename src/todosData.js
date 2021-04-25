@@ -22,6 +22,7 @@ const todosData=[
     {
         id:5,
         task:"embrace mom",
+<<<<<<< HEAD
         completed:false
     },
     {
@@ -47,6 +48,8 @@ const todosData=[
     {
         id:10,
         task:"embrace mom",
+=======
+>>>>>>> a3fcfb49260397caf2f644ea8a397f0162bc0e73
         completed:false
     }
     
