@@ -1,7 +1,7 @@
 const todosData=[
 {
     id:1,
-    task:"Meditate",
+    task:"Meditate before going bed",
     completed:false
 },
 {
@@ -16,7 +16,7 @@ const todosData=[
 },
 {
     id:4,
-    task:"Do my bed",
+    task:"Do my bed at night",
     completed:false
 },
 {
